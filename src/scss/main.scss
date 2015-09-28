@@ -1,0 +1,13 @@
+@import 'foundation/scss/foundation/components/global';
+@import 'partials/cool';
+
+body {
+  margin: 0;
+  h1 {
+    color: $white;
+    font-size: 12rem;
+    &.cool {
+      color: $cool-color;
+    }
+  }
+}

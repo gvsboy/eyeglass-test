@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "eyeglass": "^0.6.2",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
